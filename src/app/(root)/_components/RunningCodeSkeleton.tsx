@@ -1,7 +1,7 @@
 import React from "react";
 
 function RunningCodeSkeleton() {
-  return <div></div>;
+  return <div>run</div>;
 }
 
 export default RunningCodeSkeleton;
